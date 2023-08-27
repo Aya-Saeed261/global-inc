@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/global-inc/static/css/main.618ece6f.css",
+    "main.js": "/global-inc/static/js/main.19f59477.js",
+    "static/media/contact-visual.png": "/global-inc/static/media/contact-visual.04c48cb26c6615866328.png",
+    "static/media/introduction-visual.png": "/global-inc/static/media/introduction-visual.87dad45905a8703bcc9f.png",
+    "static/media/about-history.jpg": "/global-inc/static/media/about-history.07affe282b69d2a9ff0a.jpg",
+    "static/media/about-visual.png": "/global-inc/static/media/about-visual.e8c01db9a851fc62d492.png",
+    "static/media/about-philosophy.jpg": "/global-inc/static/media/about-philosophy.a2b44b60a3aa3eb033ea.jpg",
+    "static/media/work-alex-nowak.jpg": "/global-inc/static/media/work-alex-nowak.f3b8dae06af02aae2284.jpg",
+    "static/media/work-metiew-smith.jpg": "/global-inc/static/media/work-metiew-smith.28e5219b8acd71226189.jpg",
+    "static/media/about-winners.jpg": "/global-inc/static/media/about-winners.65186fa42d997c6ae85a.jpg",
+    "static/media/work-victory.jpg": "/global-inc/static/media/work-victory.65c37b629a23a9500636.jpg",
+    "static/media/revicons.eot": "/global-inc/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/global-inc/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/global-inc/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/global-inc/index.html",
+    "main.618ece6f.css.map": "/global-inc/static/css/main.618ece6f.css.map",
+    "main.19f59477.js.map": "/global-inc/static/js/main.19f59477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618ece6f.css",
+    "static/js/main.19f59477.js"
+  ]
+}
