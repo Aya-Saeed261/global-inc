@@ -35,7 +35,7 @@ A company landing page.
 
 - Animating content in a 3d way when opening the nav menu
 - Changing shown components on scroll
-- Using react-multi-slider functions to add anaimations when slides transition
+- Using react-multi-slider functions to add animations when slides transition
 ### Useful resources
 
 - [Stack Overflow Answer](https://stackoverflow.com/questions/57833951/change-page-on-every-wheel-event) - This helped me with changing the shown component on wheel movement
